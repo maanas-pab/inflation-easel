@@ -1,5 +1,9 @@
 # 🍎 Inflation Easel
 
+[![ci](https://github.com/maanas-pab/inflation-easel/actions/workflows/ci.yml/badge.svg)](https://github.com/maanas-pab/inflation-easel/actions/workflows/ci.yml)
+[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/maanas-pab/inflation-easel/main)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=maanas-pab/inflation-easel&branch=main&mainModule=app.py)
+
 **Slider: 1970 → 2026. A classic still life gets re-drawn as groceries get expensive.**
 
 An apple goes from **$0.25 to ~$1.73** and visibly *shrinks* in the painting.
@@ -28,6 +32,21 @@ U.S. Bureau of Labor Statistics CPI data.
      the same canvas.
 
 ## Run it
+
+**Live dashboard (no install):** two options —
+
+1. **Streamlit Cloud** (public URL): open
+   [share.streamlit.io/deploy](https://share.streamlit.io/deploy?repository=maanas-pab/inflation-easel&branch=main&mainModule=app.py),
+   sign in with GitHub, pick `maanas-pab/inflation-easel` / `main` / `app.py`,
+   hit Deploy. Entry point is `app.py`, deps come from `requirements.txt`.
+2. **GitHub Codespaces** (runs from github.com): click
+   [Open in Codespaces](https://codespaces.new/maanas-pab/inflation-easel/main),
+   then in the terminal run `streamlit run app.py` — port 8501 auto-forwards.
+
+> Note: GitHub Pages can't host Streamlit (static files only), so the live
+> app lives on Streamlit Cloud, deployed straight from this repo.
+
+**Local:**
 
 ```bash
 pip install -r requirements.txt
