@@ -1,8 +1,6 @@
 # 🍎 Inflation Easel
 
-[![ci](https://github.com/maanas-pab/inflation-easel/actions/workflows/ci.yml/badge.svg)](https://github.com/maanas-pab/inflation-easel/actions/workflows/ci.yml)
-[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/maanas-pab/inflation-easel/main)
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=maanas-pab/inflation-easel&branch=main&mainModule=app.py)
+[![Streamlit](https://inflationeasel.streamlit.app/)
 
 **Slider: 1970 → 2026. A classic still life gets re-drawn as groceries get expensive.**
 
