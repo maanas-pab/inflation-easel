@@ -4,6 +4,6 @@ __pycache__/
 venv/
 .env
 .streamlit/
-*.png
 .DS_Store
 .pytest_cache/
+!assets/*.png
