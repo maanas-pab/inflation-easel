@@ -9,7 +9,7 @@ U.S. Bureau of Labor Statistics CPI data.
 | 1970 · pristine | 1995 · fading | 2026 · weathered |
 |---|---|---|
 | ![1970](assets/still_1970.png) | ![1995](assets/still_1995.png) | ![2026](assets/still_2026.png) |
-| Apple $0.25/lb · basket $3.02 | Apple $0.79/lb · basket $8.04 | Apple $1.73/lb · basket $17.33 |
+| Apple $0.25/lb · basket $3.02 | Apple $0.79/lb · basket $7.58 | Apple $1.73/lb · basket $17.33 |
 
 ## How it works
 
