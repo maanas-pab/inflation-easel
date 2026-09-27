@@ -3,7 +3,7 @@ __pycache__/
 .venv/
 venv/
 .env
-.streamlit/
+.streamlit/secrets.toml
 .DS_Store
 .pytest_cache/
 !assets/*.png
