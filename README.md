@@ -33,10 +33,7 @@ U.S. Bureau of Labor Statistics CPI data.
 
 **Live dashboard (no install):** two options —
 
-1. **Streamlit Cloud** (public URL): open
-   [share.streamlit.io/deploy](https://share.streamlit.io/deploy?repository=maanas-pab/inflation-easel&branch=main&mainModule=app.py),
-   sign in with GitHub, pick `maanas-pab/inflation-easel` / `main` / `app.py`,
-   hit Deploy. Entry point is `app.py`, deps come from `requirements.txt`.
+1. **Streamlit Cloud** (public URL): open https://inflationeasel.streamlit.app/
 2. **GitHub Codespaces** (runs from github.com): click
    [Open in Codespaces](https://codespaces.new/maanas-pab/inflation-easel/main),
    then in the terminal run `streamlit run app.py` — port 8501 auto-forwards.
