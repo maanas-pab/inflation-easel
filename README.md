@@ -1,6 +1,6 @@
 # 🍎 Inflation Easel
 
-[![Streamlit](https://inflationeasel.streamlit.app/)
+Streamlit: https://inflationeasel.streamlit.app/
 
 **Slider: 1970 → 2026. A classic still life gets re-drawn as groceries get expensive.**
 
